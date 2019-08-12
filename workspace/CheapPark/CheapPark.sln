@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheapPark", "CheapPark\CheapPark.csproj", "{1FA96549-50C1-49C1-BD7E-3F90E2157455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheapPark.Tests", "CheapPark.Tests\CheapPark.Tests.csproj", "{B38D293B-802C-4FD9-B975-042CB20CD14E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FA96549-50C1-49C1-BD7E-3F90E2157455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA96549-50C1-49C1-BD7E-3F90E2157455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA96549-50C1-49C1-BD7E-3F90E2157455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA96549-50C1-49C1-BD7E-3F90E2157455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38D293B-802C-4FD9-B975-042CB20CD14E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38D293B-802C-4FD9-B975-042CB20CD14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38D293B-802C-4FD9-B975-042CB20CD14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38D293B-802C-4FD9-B975-042CB20CD14E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
